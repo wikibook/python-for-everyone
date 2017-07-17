@@ -1,0 +1,16 @@
+﻿
+import datetime
+
+datetime.date(2016,9,8)
+
+t = datetime.date(2017, 4, 20)
+
+t + datetime.timedelta(weeks=1)
+
+t - datetime.timedelta(days=3)
+
+
+a = datetime.date(2017,3,3)
+b = datetime.date(2018,3,3)
+c = b - a
+c

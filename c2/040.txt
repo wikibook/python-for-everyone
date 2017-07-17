@@ -1,0 +1,4 @@
+﻿
+python3 daikei.py
+
+python3 hanaya-var.py

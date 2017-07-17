@@ -1,0 +1,9 @@
+﻿
+python3 class-var.py
+
+
+mike = Cat()
+print( mike.nakigoe )
+
+
+python3 class-var2.py

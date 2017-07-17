@@ -1,0 +1,14 @@
+﻿
+price = 1200
+print(price)
+
+
+FlowerPrice = 300
+flowerPrice = 300
+flower_price = 300
+꽃의 가격 = 300
+β = 30
+
+print(flower_price)
+
+30sai = 300

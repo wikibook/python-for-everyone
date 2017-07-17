@@ -1,0 +1,19 @@
+﻿
+re.search(r"^abc$", "abc")
+
+print(re.search(r"^abc$", "abcd"))
+
+print(re.search(r"^abc$", "xabc"))
+
+
+pat = r"\.png$"
+re.search(pat, "abc.png")
+
+
+print(re.search(pat, "abc.png-doc.txt"))
+
+
+
+words = ["soy", "soup", "nuts", "spot"]
+pat = r"^s...$"
+[ i for i in words if re.search(pat, i) ]

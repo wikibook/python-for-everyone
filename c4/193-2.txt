@@ -1,0 +1,3 @@
+﻿s = "I like red colour."
+pat = r"\w+ (color|colour)"
+re.search(pat, s)

@@ -1,0 +1,4 @@
+﻿
+python3 kakugen.py
+
+python3 nenrei.py

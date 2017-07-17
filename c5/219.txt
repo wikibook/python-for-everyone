@@ -1,0 +1,2 @@
+﻿
+http://localhost:8080/cgi-bin/saikoro.py

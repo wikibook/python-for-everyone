@@ -1,0 +1,16 @@
+﻿
+nums = [1, 2, 3]
+iter(nums)
+
+
+nums = [1, 2, 3]
+i = iter(nums)
+next(i)
+
+next(i)
+
+next(i)
+
+
+
+next(i)

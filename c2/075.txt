@@ -1,0 +1,4 @@
+﻿
+python3 sum1to10.py
+
+python3 tatesen.py

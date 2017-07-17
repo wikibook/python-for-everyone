@@ -1,0 +1,7 @@
+﻿
+python3 getter_test.py
+
+
+import getter_test
+a = getter_test.Clock(8)
+a.hour = 10

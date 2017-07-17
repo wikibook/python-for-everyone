@@ -1,0 +1,5 @@
+﻿
+Set-ExecutionPolicy RemoteSigned -Scope Process
+
+
+.\findtext

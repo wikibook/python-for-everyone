@@ -1,0 +1,22 @@
+﻿
+
+prices = {'Banana':300, 'Apple':200, 'Mango':400}
+
+prices.keys()
+
+
+
+
+prices = {'Banana':300, 'Apple':200, 'Mango':400}
+
+list( prices.keys() )
+
+
+
+
+fruits = {'Banana':300, 'Apple':200, 'Mango':400}
+
+list( fruits.keys() )
+
+sorted( fruits.keys() )
+

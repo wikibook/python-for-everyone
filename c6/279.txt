@@ -1,0 +1,11 @@
+﻿
+python3 pos-mul.py
+
+
+isinstance(3.5, float)
+
+isinstance(3.5, int)
+
+isinstance(3.5, (int, float))
+
+isinstance(5, (int, float))

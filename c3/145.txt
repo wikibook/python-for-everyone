@@ -1,0 +1,18 @@
+﻿
+python3 yield-test.py
+
+
+
+
+def gen1to3(): yield 1; yield 2; yield 3
+
+i = gen1to3()
+i
+
+next(i)
+
+next(i)
+
+next(i)
+
+next(i)

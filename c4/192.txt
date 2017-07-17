@@ -1,0 +1,16 @@
+﻿
+re.search(r"ba*", "b")
+
+re.search(r"ba+", "baaaaaaa")
+
+
+
+re.search(r"ba{1,3}", "baaaaaaaaaaaaa")
+
+
+
+s = "김사장이사장박사장"
+re.findall(r".+장", s)
+
+re.findall(r".+?장", s)
+['김사장', '이사장', '박사장']

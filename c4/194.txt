@@ -1,0 +1,4 @@
+﻿s = "date: 2017/10/15"
+pat = r"(\d{4})/(\d{1,2})/(\d{1,2})"
+g = re.search(pat, s)
+g.groups()

@@ -1,0 +1,4 @@
+﻿
+python3 test-sum2.py
+
+python3 fruits-list.py

@@ -1,0 +1,2 @@
+﻿
+python3 func-animal-speed.py

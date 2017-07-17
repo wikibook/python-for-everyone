@@ -1,0 +1,9 @@
+﻿
+team1 = {'김', '이', '박'}
+team2 = {'정', '김', '박'}
+team3 = team1 | team2
+team3
+
+team4 = team1 & team2
+team4
+

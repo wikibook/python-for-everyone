@@ -1,0 +1,2 @@
+﻿
+python3 src/c5/calcfee.py

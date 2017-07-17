@@ -1,0 +1,5 @@
+﻿python3 nest-list-c1.py
+
+python3 nest-list-c2.py
+
+python3 nest-list-c3.py

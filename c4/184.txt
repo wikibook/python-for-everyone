@@ -1,0 +1,14 @@
+﻿
+Set-ExecutionPolicy RemoteSigned
+
+
+
+#!/usr/bin/env python3
+
+
+
+
+chmod 744 findtext.py
+
+
+./findtext.py

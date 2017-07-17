@@ -1,0 +1,5 @@
+﻿
+$ python3 try-bmi.py
+
+
+

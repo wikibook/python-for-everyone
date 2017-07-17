@@ -1,0 +1,16 @@
+﻿
+n = "0123456789"
+n[0:9:2]
+
+n[::3]
+
+
+s = "This is a pen."
+s.split()
+
+
+s = "2020/02/20"
+s.split("/")
+
+s.split("/", maxsplit=1)
+

@@ -1,0 +1,6 @@
+﻿
+python3 dice.py
+
+python3 dice.py
+
+python3 dice.py

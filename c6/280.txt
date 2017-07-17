@@ -1,0 +1,4 @@
+﻿
+python3 tukimei.py
+
+python3 tukimei2.py

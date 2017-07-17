@@ -1,0 +1,4 @@
+﻿
+python3 print-args.py
+
+python3 print-args.py aaa bbb ccc

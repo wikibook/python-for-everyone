@@ -1,0 +1,7 @@
+﻿
+python3 error-types.py
+
+
+$ python3 error-types.py
+
+

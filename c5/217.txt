@@ -1,0 +1,5 @@
+﻿
+chmod +x cgi-bin/kakugen.py
+
+
+http://localhost:8080/cgi-bin/kakugen.py

@@ -1,0 +1,18 @@
+﻿
+
+fruits = ["Apple","Orange","Banana"]
+for i, v in enumerate(fruits):
+    print(i, v)
+
+
+list(enumerate(fruits))
+
+
+
+
+nums = [1, 2, 3]
+
+nums.append(4)
+nums.append(5)
+
+nums

@@ -1,0 +1,3 @@
+﻿
+import cgitb
+cgitb.enable()

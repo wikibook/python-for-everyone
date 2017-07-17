@@ -1,0 +1,5 @@
+﻿
+python3 calc-ng.py
+
+python3 calc-ok.py
+

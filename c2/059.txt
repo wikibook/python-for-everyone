@@ -1,0 +1,6 @@
+﻿
+
+python3 even-odd.py
+
+
+python3 even-odd.py

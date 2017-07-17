@@ -1,0 +1,5 @@
+﻿
+python3 empty-class2.py
+
+
+python3 static.py

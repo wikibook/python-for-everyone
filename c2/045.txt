@@ -1,0 +1,5 @@
+﻿
+python3 hello-tri2.py
+
+python3 hello-world.py
+

@@ -1,0 +1,11 @@
+﻿
+python3 countdown-days.py
+
+
+
+import math
+math.pi
+
+
+
+python3 test-math.py

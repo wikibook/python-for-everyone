@@ -1,0 +1,2 @@
+﻿
+pip3 install -U scikit-learn scipy matplotlib scikit-image

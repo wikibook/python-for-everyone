@@ -1,0 +1,6 @@
+﻿
+python3 func-waribiki.py
+
+def hoge(): pass
+
+print(hoge())

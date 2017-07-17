@@ -1,0 +1,6 @@
+﻿
+$ python3 list-kakugen.py
+
+$ python3 list-kakugen.py
+
+$ python3 list-kakugen.py

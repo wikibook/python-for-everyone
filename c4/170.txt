@@ -1,0 +1,2 @@
+﻿
+python3 crypto-test.py
